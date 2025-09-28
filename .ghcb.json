@@ -1,0 +1,16 @@
+{
+  "schema": 1,
+  "owner": "kazuhiko-design",
+  "repo": "OnennabeCloudSaves",
+  "branch": "FinalFantasyRebirth",
+  "mappings": [
+    {
+      "machine_id": "aeaf389f1654d4e298c044f8d900e2df98dbc885",
+      "machine_name": "AMD-R5-3600",
+      "path": "C:\\Users\\ridwa\\OneDrive\\Documents\\My Games\\FINAL FANTASY VII REBIRTH\\Steam",
+      "os": "Windows",
+      "last_updated": "2025-09-28T10:57:13.714261+00:00"
+    }
+  ],
+  "updated_at": "2025-09-28T10:57:13.714261+00:00"
+}
