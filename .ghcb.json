@@ -1,0 +1,16 @@
+{
+  "schema": 1,
+  "owner": "kazuhiko-design",
+  "repo": "OnennabeCloudSaves",
+  "branch": "StellarBlade",
+  "mappings": [
+    {
+      "machine_id": "aeaf389f1654d4e298c044f8d900e2df98dbc885",
+      "machine_name": "AMD-R5-3600",
+      "path": "C:\\Users\\ridwa\\AppData\\Local\\SB\\Saved\\SaveGames",
+      "os": "Windows",
+      "last_updated": "2025-09-28T11:10:48.860409+00:00"
+    }
+  ],
+  "updated_at": "2025-09-28T11:10:48.860409+00:00"
+}
