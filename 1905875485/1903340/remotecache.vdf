@@ -1,0 +1,41 @@
+"1903340"
+{
+	"ChangeNumber"		"0"
+	"OSType"		"0"
+	"BANDAI NAMCO Entertainment/Tales of Xillia Remastered/Save/76561199866141213/Bundle.data"
+	{
+		"root"		"12"
+		"size"		"560"
+		"localtime"		"1761893107"
+		"time"		"1761893124"
+		"remotetime"		"1761893124"
+		"sha"		"44523e652bb589ad7d5565c8183320d57e5d1a82"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"BANDAI NAMCO Entertainment/Tales of Xillia Remastered/Save/76561199866141213/SaveData0.data"
+	{
+		"root"		"12"
+		"size"		"783664"
+		"localtime"		"1761893096"
+		"time"		"1761893115"
+		"remotetime"		"1761893115"
+		"sha"		"02b0dc886b572ceb752a655aa313a36c6acdaf92"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"BANDAI NAMCO Entertainment/Tales of Xillia Remastered/Save/76561199866141213/SaveData1.data"
+	{
+		"root"		"12"
+		"size"		"782512"
+		"localtime"		"1761893105"
+		"time"		"1761893124"
+		"remotetime"		"1761893124"
+		"sha"		"a9b6c8ba21f6bb2403c3b7489fcfc9a938c2faa0"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+}
