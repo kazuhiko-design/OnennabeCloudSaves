@@ -54,11 +54,11 @@
 	{
 		"root"		"0"
 		"size"		"5776"
-		"localtime"		"1762078061"
-		"time"		"1762078081"
+		"localtime"		"1762082912"
+		"time"		"1762082933"
 		"remotetime"		"1762078081"
-		"sha"		"4b677e8bdfd56e3d1eec9737ae5e95e973b9a0fe"
-		"syncstate"		"1"
+		"sha"		"f9576ddea607307c5bf147bfb85996636c3bcc4c"
+		"syncstate"		"3"
 		"persiststate"		"0"
 		"platformstosync2"		"-1"
 	}
