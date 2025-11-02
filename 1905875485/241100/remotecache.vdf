@@ -1,0 +1,41 @@
+"241100"
+{
+	"ChangeNumber"		"1"
+	"OSType"		"0"
+	"1905875485/config/configset_45e-28e-71995a1d.vdf"
+	{
+		"root"		"1"
+		"size"		"24"
+		"localtime"		"1750477222"
+		"time"		"1750477221"
+		"remotetime"		"1750477221"
+		"sha"		"7d831e6ab7dc4f8bed495c9230fd4737b8f800de"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"1905875485/config/configset_controller_xbox360.vdf"
+	{
+		"root"		"1"
+		"size"		"24"
+		"localtime"		"1750477221"
+		"time"		"1750477221"
+		"remotetime"		"1750477221"
+		"sha"		"7d831e6ab7dc4f8bed495c9230fd4737b8f800de"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"1905875485/config/preferences_45e-28e-71995a1d.vdf"
+	{
+		"root"		"1"
+		"size"		"829"
+		"localtime"		"1750477221"
+		"time"		"1750477221"
+		"remotetime"		"1750477221"
+		"sha"		"8afd3005fc3dc660dddc607b8ae665f80aaf3a55"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+}
