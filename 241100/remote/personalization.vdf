@@ -1,0 +1,13 @@
+"ControllerPersonalization"
+{
+	"name"		"Xbox 360 Controller"
+	"guide_brightness"		"1"
+	"turn_on_sound"		"-1"
+	"turn_off_sound"		"-1"
+	"rumble"		"1"
+	"haptics"		"1"
+	"color_red"		"0"
+	"color_green"		"255"
+	"color_blue"		"255"
+	"color_saturation"		"1"
+}
