@@ -1,0 +1,77 @@
+"1358700"
+{
+	"ChangeNumber"		"0"
+	"OSType"		"0"
+	"SB/Saved/SaveGames/76561198300962773/StellarBladeSave00.sav"
+	{
+		"root"		"3"
+		"size"		"0"
+		"localtime"		"0"
+		"time"		"0"
+		"remotetime"		"0"
+		"sha"		"0000000000000000000000000000000000000000"
+		"syncstate"		"2"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"SB/Saved/SaveGames/76561198300962773/StellarBladeSetting.sav"
+	{
+		"root"		"3"
+		"size"		"0"
+		"localtime"		"0"
+		"time"		"0"
+		"remotetime"		"0"
+		"sha"		"0000000000000000000000000000000000000000"
+		"syncstate"		"2"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"LocalProfile/data.save"
+	{
+		"root"		"0"
+		"size"		"0"
+		"localtime"		"0"
+		"time"		"0"
+		"remotetime"		"0"
+		"sha"		"0000000000000000000000000000000000000000"
+		"syncstate"		"2"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"LocalProfile/index.save"
+	{
+		"root"		"0"
+		"size"		"0"
+		"localtime"		"0"
+		"time"		"0"
+		"remotetime"		"0"
+		"sha"		"0000000000000000000000000000000000000000"
+		"syncstate"		"2"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"SystemData/data.save"
+	{
+		"root"		"0"
+		"size"		"0"
+		"localtime"		"0"
+		"time"		"0"
+		"remotetime"		"0"
+		"sha"		"0000000000000000000000000000000000000000"
+		"syncstate"		"2"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"SystemData/index.save"
+	{
+		"root"		"0"
+		"size"		"0"
+		"localtime"		"0"
+		"time"		"0"
+		"remotetime"		"0"
+		"sha"		"0000000000000000000000000000000000000000"
+		"syncstate"		"2"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+}
