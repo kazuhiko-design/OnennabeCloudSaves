@@ -1,0 +1,95 @@
+"UserRoamingConfigStore"
+{
+	"Software"
+	{
+		"Valve"
+		{
+			"Steam"
+			{
+				"SurveyDate"		"2025-09-22"
+				"SurveyDateVersion"		"4442821420494721932"
+				"apps"
+				{
+					"3489700"
+					{
+						"cloudenabled"		"1"
+					}
+					"2909400"
+					{
+						"cloudenabled"		"1"
+					}
+					"990080"
+					{
+						"cloudenabled"		"1"
+					}
+					"2417610"
+					{
+						"cloudenabled"		"0"
+					}
+					"2731870"
+					{
+						"cloudenabled"		"0"
+					}
+					"1903340"
+					{
+						"cloudenabled"		"0"
+					}
+					"1608070"
+					{
+						"cloudenabled"		"0"
+					}
+					"1358700"
+					{
+						"cloudenabled"		"0"
+					}
+					"1351630"
+					{
+						"cloudenabled"		"1"
+					}
+					"1113560"
+					{
+						"cloudenabled"		"0"
+					}
+					"881020"
+					{
+						"cloudenabled"		"1"
+					}
+					"524220"
+					{
+						"cloudenabled"		"0"
+					}
+					"743890"
+					{
+						"cloudenabled"		"1"
+					}
+					"743900"
+					{
+						"cloudenabled"		"1"
+					}
+				}
+				"StartMenuShortcutCheck"		"1"
+				"DesktopShortcutCheck"		"1"
+			}
+		}
+	}
+	"DisableAllToasts"		"0"
+	"DisableToastsInGame"		"1"
+	"JSClientStorage"
+	{
+		"spotlight.review.3489700"
+		{
+			"rgPromptDismissals"		"2"
+			"bWasAskedToRevise"		"0"
+		}
+		"timeline_intro"
+		{
+			"rtSeen"		"0"
+			"rtLinkDismissed"		"1759739008"
+		}
+		"spotlight.review.1351630"
+		{
+			"rgPromptDismissals"		"1"
+			"bWasAskedToRevise"		"0"
+		}
+	}
+}
