@@ -1,0 +1,31 @@
+"UserRoamingConfigStore"
+{
+	"Software"
+	{
+		"Valve"
+		{
+			"Steam"
+			{
+				"StartMenuShortcutCheck"		"1"
+				"DesktopShortcutCheck"		"1"
+				"apps"
+				{
+					"3489700"
+					{
+						"cloudenabled"		"1"
+					}
+				}
+				"SteamDefaultDialog"		"#app_games"
+				"SurveyDate"		"2025-09-05"
+			}
+		}
+	}
+	"JSClientStorage"
+	{
+		"spotlight.review.3489700"
+		{
+			"rgPromptDismissals"		"3"
+			"bWasAskedToRevise"		"0"
+		}
+	}
+}
