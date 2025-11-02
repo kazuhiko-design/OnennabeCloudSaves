@@ -1,0 +1,41 @@
+"UserRoamingConfigStore"
+{
+	"Software"
+	{
+		"Valve"
+		{
+			"Steam"
+			{
+				"apps"
+				{
+					"3489700"
+					{
+						"cloudenabled"		"0"
+					}
+					"990080"
+					{
+						"cloudenabled"		"0"
+					}
+					"1113560"
+					{
+						"cloudenabled"		"0"
+					}
+					"881020"
+					{
+						"cloudenabled"		"0"
+					}
+				}
+				"StartMenuShortcutCheck"		"1"
+				"DesktopShortcutCheck"		"1"
+			}
+		}
+	}
+	"JSClientStorage"
+	{
+		"timeline_intro"
+		{
+			"rtSeen"		"0"
+			"rtLinkDismissed"		"1759904384"
+		}
+	}
+}
