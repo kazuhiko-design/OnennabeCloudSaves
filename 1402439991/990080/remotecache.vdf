@@ -1,0 +1,65 @@
+"990080"
+{
+	"ChangeNumber"		"0"
+	"OSType"		"0"
+	"Hogwarts Legacy/Saved/Config/WindowsNoEditor/Input.ini"
+	{
+		"root"		"3"
+		"size"		"79325"
+		"localtime"		"1761709784"
+		"time"		"1761709793"
+		"remotetime"		"0"
+		"sha"		"3f8c1b939f920f1d4249bb47868dc933e494611f"
+		"syncstate"		"3"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"Hogwarts Legacy/Saved/SaveGames/1402439991/HL-00-10.sav"
+	{
+		"root"		"3"
+		"size"		"169599"
+		"localtime"		"1759375909"
+		"time"		"1759375910"
+		"remotetime"		"0"
+		"sha"		"915406642fec851b01a98489540d6eaf82c76d52"
+		"syncstate"		"3"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"Hogwarts Legacy/Saved/SaveGames/1402439991/SaveGameList.sav"
+	{
+		"root"		"3"
+		"size"		"50313"
+		"localtime"		"1761709806"
+		"time"		"1761709815"
+		"remotetime"		"0"
+		"sha"		"7c859ad06d154614aa27e52909c8a99d70efb559"
+		"syncstate"		"3"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"Hogwarts Legacy/Saved/SaveGames/1402439991/HL-00-11.sav"
+	{
+		"root"		"3"
+		"size"		"170902"
+		"localtime"		"1759375928"
+		"time"		"1759375929"
+		"remotetime"		"0"
+		"sha"		"0289c8cae99d1195595a29256943631864f2127d"
+		"syncstate"		"3"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"Hogwarts Legacy/Saved/SaveGames/1402439991/SavedUserOptions.sav"
+	{
+		"root"		"3"
+		"size"		"6689"
+		"localtime"		"1761709806"
+		"time"		"1761709815"
+		"remotetime"		"0"
+		"sha"		"1ec7956039598aaddf19471bae901fd14b1f5777"
+		"syncstate"		"3"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+}
