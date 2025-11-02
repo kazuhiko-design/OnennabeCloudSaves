@@ -1,0 +1,29 @@
+"3489700"
+{
+	"ChangeNumber"		"6"
+	"OSType"		"0"
+	"SB/Saved/SaveGames/76561199865980002/StellarBladeSetting.sav"
+	{
+		"root"		"3"
+		"size"		"166938"
+		"localtime"		"1759208478"
+		"time"		"1759208481"
+		"remotetime"		"1758576198"
+		"sha"		"af90fa19d37d28cd8d5302e5031c455cba632e7d"
+		"syncstate"		"3"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"SB/Saved/SaveGames/76561199865980002/StellarBladeSave00.sav"
+	{
+		"root"		"3"
+		"size"		"17797092"
+		"localtime"		"1758709119"
+		"time"		"1758709117"
+		"remotetime"		"0"
+		"sha"		"74134b09f9fd2d98e5acfe0a9c25a636c5255d06"
+		"syncstate"		"3"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+}
