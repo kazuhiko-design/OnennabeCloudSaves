@@ -1,6 +1,6 @@
 "241100"
 {
-	"ChangeNumber"		"27"
+	"ChangeNumber"		"28"
 	"OSType"		"0"
 	"1905714274/config/configset_1c666d774955.vdf"
 	{
@@ -598,6 +598,42 @@
 		"time"		"1760533383"
 		"remotetime"		"1760533383"
 		"sha"		"959be95d40df24192833b77a91c5349cef8326ef"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"1905714274/config/configset_controller_mobile_touch.vdf"
+	{
+		"root"		"1"
+		"size"		"24"
+		"localtime"		"1761985199"
+		"time"		"1761985200"
+		"remotetime"		"1761985200"
+		"sha"		"7d831e6ab7dc4f8bed495c9230fd4737b8f800de"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"1905714274/config/configset_MT-9bb72ce357dc9754.vdf"
+	{
+		"root"		"1"
+		"size"		"24"
+		"localtime"		"1761985199"
+		"time"		"1761985200"
+		"remotetime"		"1761985200"
+		"sha"		"7d831e6ab7dc4f8bed495c9230fd4737b8f800de"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"1905714274/config/preferences_MT-9bb72ce357dc9754.vdf"
+	{
+		"root"		"1"
+		"size"		"969"
+		"localtime"		"1761985199"
+		"time"		"1761985200"
+		"remotetime"		"1761985200"
+		"sha"		"b0045f30642055fd279dc09942f617201227b5a5"
 		"syncstate"		"1"
 		"persiststate"		"0"
 		"platformstosync2"		"-1"
