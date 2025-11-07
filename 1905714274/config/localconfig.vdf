@@ -65,17 +65,17 @@
 					}
 					"3489700"
 					{
-						"LastPlayed"		"1761709669"
-						"Playtime2wks"		"205"
-						"Playtime"		"4095"
+						"LastPlayed"		"1762208032"
+						"Playtime2wks"		"809"
+						"Playtime"		"4707"
 						"cloud"
 						{
 							"last_sync_state"		"changeslocally"
 						}
 						"autocloud"
 						{
-							"lastlaunch"		"1761709530"
-							"lastexit"		"1761709660"
+							"lastlaunch"		"1762207927"
+							"lastexit"		"1762208030"
 						}
 						"BadgeData"		"020000000800"
 					}
@@ -104,8 +104,8 @@
 						}
 						"autocloud"
 						{
-							"lastlaunch"		"1761709531"
-							"lastexit"		"1761709661"
+							"lastlaunch"		"1762208037"
+							"lastexit"		"1762208138"
 						}
 					}
 					"2909400"
@@ -119,16 +119,18 @@
 					{
 						"cloud"
 						{
-							"last_sync_state"		"changesincloud"
+							"last_sync_state"		"changeslocally"
 						}
 						"990080_eula_0"		"2"
-						"LastPlayed"		"1758751726"
+						"LastPlayed"		"1762208138"
 						"BadgeData"		"020000000800"
 						"autocloud"
 						{
-							"lastexit"		"1758751727"
-							"lastlaunch"		"1758751715"
+							"lastexit"		"1762208137"
+							"lastlaunch"		"1762208037"
 						}
+						"Playtime2wks"		"1"
+						"Playtime"		"1"
 					}
 					"1113560"
 					{
@@ -155,7 +157,7 @@
 						"Playtime"		"25"
 					}
 				}
-				"LastPlayedTimesSyncTime"		"1761662959"
+				"LastPlayedTimesSyncTime"		"1762183313"
 				"PlayerLevel"		"0"
 				"SmallMode"		"0"
 			}
@@ -167,6 +169,8 @@
 		"EnableStreaming"		"1"
 		"DefaultAudioDevice"		"{0.0.0.00000000}.{df599688-77f9-4408-9c8d-d5c022a714a5}"
 		"DefaultAudioDeviceName"		"FxSound Speakers (FxSound Audio Enhancer)"
+		"DefaultMicrophone"		"{0.0.1.00000000}.{cfab08be-5dce-4edf-a565-7eb1371966aa}"
+		"DefaultMicrophoneName"		"Headset (Mi True Wireless EBs Basic 2)"
 	}
 	"friends"
 	{
@@ -197,10 +201,10 @@
 	}
 	"Offline"
 	{
-		"Ticket"		"08e2c8db8c0715c88d0169"
-		"Signature"		"24f70e405e78a5e09ec86f01312f486629786e2a889ea2f8a54740f2e8276cbd3c56860a346dc20491e3699a905a226c2fe5232ba90ff556708e9d57b5f731ddb5a688c7e538a8151ef09f3db031f3b3bd61c01db14702da83f927ddf936ddd4475cab88efce419ce682089cdccfe369fce1e4044772c1826de5579988c989e1467062b86a3d57f8a4ed76fd6b8fff6dca37bb19008772e25d230481056c02bedb02202980002403fae4503bef1fcbbc0304c51cd1cef5c45848c24e7fecb1192318a1886f3652350b8bb2cf517983c53f40f6026dda739978abcbc1bd9bf64bd5e95f8c1e64320c8ba68b55c392ddd7dd7e27a7efa379e5402aa79c42b0e481"
-		"EncryptedTicket"		"0a20435f08a169a8f7844278bae14123d57dccd3e7d3a62ec11704722f4fcd9ae7a912800224f70e405e78a5e09ec86f01312f486629786e2a889ea2f8a54740f2e8276cbd3c56860a346dc20491e3699a905a226c2fe5232ba90ff556708e9d57b5f731ddb5a688c7e538a8151ef09f3db031f3b3bd61c01db14702da83f927ddf936ddd4475cab88efce419ce682089cdccfe369fce1e4044772c1826de5579988c989e1467062b86a3d57f8a4ed76fd6b8fff6dca37bb19008772e25d230481056c02bedb02202980002403fae4503bef1fcbbc0304c51cd1cef5c45848c24e7fecb1192318a1886f3652350b8bb2cf517983c53f40f6026dda739978abcbc1bd9bf64bd5e95f8c1e64320c8ba68b55c392ddd7dd7e27a7efa379e5402aa79c42b0e48118062208a144ea7d368d3bbe28043208ba000c764e45cdc2"
-		"EncryptedSignature"		"24f70e405e78a5e09ec86f01312f486629786e2a889ea2f8a54740f2e8276cbd3c56860a346dc20491e3699a905a226c2fe5232ba90ff556708e9d57b5f731ddb5a688c7e538a8151ef09f3db031f3b3bd61c01db14702da83f927ddf936ddd4475cab88efce419ce682089cdccfe369fce1e4044772c1826de5579988c989e1467062b86a3d57f8a4ed76fd6b8fff6dca37bb19008772e25d230481056c02bedb02202980002403fae4503bef1fcbbc0304c51cd1cef5c45848c24e7fecb1192318a1886f3652350b8bb2cf517983c53f40f6026dda739978abcbc1bd9bf64bd5e95f8c1e64320c8ba68b55c392ddd7dd7e27a7efa379e5402aa79c42b0e481"
+		"Ticket"		"08e2c8db8c0715a4280969"
+		"Signature"		"7d569867b3aaf316848edd9dfadc0e18694e362e257cfe282edd532b7a890e1da349358d8f3885559f2d6d961f2fdf59998922cfcc774fc0471505a957d0c428ca0301d16f424b0f114bb1f391088441d156020ad946eac7d2bcc9b3f6415b58a2e78dd30b72578250b13a9d3c0e5acb68181cc4ddd1c84dd9c21b805ed2878a78de354520911834fdfb6c6b3b322312487c6014c77dec464ab4fe595775ec62e36750b92bd8dbc4bd9388ac583e4e59c2374f29899668e1dd8a34988ecf09b24bb90abae19f5b56150089674ef581ef8a03af09d5528d9014a6cfb1da538dee32bdeba0fc8d06e3058e770e2d1840b3ee9bdbe27bc827282ccccd67898d2810"
+		"EncryptedTicket"		"0a201419ab8ee29600f31020e62f643af49b233dff5148951d8d28440d8b4cf349681280027d569867b3aaf316848edd9dfadc0e18694e362e257cfe282edd532b7a890e1da349358d8f3885559f2d6d961f2fdf59998922cfcc774fc0471505a957d0c428ca0301d16f424b0f114bb1f391088441d156020ad946eac7d2bcc9b3f6415b58a2e78dd30b72578250b13a9d3c0e5acb68181cc4ddd1c84dd9c21b805ed2878a78de354520911834fdfb6c6b3b322312487c6014c77dec464ab4fe595775ec62e36750b92bd8dbc4bd9388ac583e4e59c2374f29899668e1dd8a34988ecf09b24bb90abae19f5b56150089674ef581ef8a03af09d5528d9014a6cfb1da538dee32bdeba0fc8d06e3058e770e2d1840b3ee9bdbe27bc827282ccccd67898d281018062208a144ea7d368d3bbe28043208ced6634aaf9fdcc4"
+		"EncryptedSignature"		"7d569867b3aaf316848edd9dfadc0e18694e362e257cfe282edd532b7a890e1da349358d8f3885559f2d6d961f2fdf59998922cfcc774fc0471505a957d0c428ca0301d16f424b0f114bb1f391088441d156020ad946eac7d2bcc9b3f6415b58a2e78dd30b72578250b13a9d3c0e5acb68181cc4ddd1c84dd9c21b805ed2878a78de354520911834fdfb6c6b3b322312487c6014c77dec464ab4fe595775ec62e36750b92bd8dbc4bd9388ac583e4e59c2374f29899668e1dd8a34988ecf09b24bb90abae19f5b56150089674ef581ef8a03af09d5528d9014a6cfb1da538dee32bdeba0fc8d06e3058e770e2d1840b3ee9bdbe27bc827282ccccd67898d2810"
 	}
 	"ParentalSettings"
 	{
@@ -209,9 +213,9 @@
 	}
 	"apptickets"
 	{
-		"7"		"320000000400000062e4967101001001070000000afa669502db10ac00000000c88d0169483d1d69010000000000000000003e5b1fb8018fee47c0488830e59323bdbf396851af7a9867fc3c2b3ee503c8d35b5d815910cd16238cf34cc26c28b66cbdfbb8293f11c50c6df912402c0a2707cdc3c4da3b275b1eaabe48839550ba871653a9f694ee7a1d92892098c4565c168c9aad7decdd8162a09d8be9cb8009f9c6f8b1b6e7110a5323ce714605826841"
+		"7"		"320000000400000062e4967101001001070000000afa669502db10ac00000000a428096924d824690100000000000000000005e9fdf251ff5d85dc443b618b8aa9fccfc2bd95875f3135e366d5bbdb29ef40ac3870f764f78cb8b7549903ee59f39f8a7b19f99bcb2360eabf1fa989b64533516109cb3fc0db70d452551ba6a844784664be565b356179be5b5ff624b39f84a556d6b249eabe476b79d5d1241d090141d5e6f7d373be181990d6e1fe68e24d"
 		"228980"		"320000000400000062e4967101001001747e03000afa669502db10ac00000000d18d0169513d1d6901000000000000000000315429ed3ac6d34514af7ddb99fbf6b115535c92c40043a59eee3100558d579f96b30552018669cca2bfe54089246d43d866b74c708d18008c13994ad166ef893c2789d72cb6bfdb6d7b252540342bc6b561f6bd682c0c56d56bf59a7d82cef4676fce323ea3255d6e3dfb66eb3c8f436be19aa84fab419a3291eb787ac56320"
-		"3489700"		"560000000400000062e4967101001001a43f35000afa669502db10ac02000000e78d0169673d1d6901009809140006008adf3600000094df360000009edf36000000a8df36000000bcdf36000000aae13700000000007223bbb5c92e08603d4e60ebe6daf7c79c94980a8d3ac8f219afaace5062408255851f34a598c913c290f8a2b447115237286e1cbb7098710984863ec19db595f8f781e009cc724f66203afeb097521019049ae5091b602ca11c5b06e37604a62169b82fb27768f828338ff95f2d2fc6dc71bbe7b2a9651af548aca02d7aae6c"
+		"3489700"		"560000000400000062e4967101001001a43f35000afa669502db10ac02000000c628096946d8246901009809140006008adf3600000094df360000009edf36000000a8df36000000bcdf36000000aae1370000000000152d6b9b34a4193a991df299625996b137c3cb80202d8e83b46dac891d67cdddb92a6818621685a114239ba84125035b7e46957845d1e29ff415a331dacc96ae0a479580695f16d89a8e1c312d992c57b668d52bb30f9075fca4716d9a80bebf62882982bb81357d2d78843566313da9f800124561c6ebf123d78495a708394a"
 		"3596180"		"320000000400000062e496710100100194df36000afa669502db10ac02000000de8d01695e3d1d69010098091400000000008790dd57254a9eac75d0553c059a1bc7e7e704a2804dd8ee4145be7e6b4e9463b70bd2f4687223202880d9e98fd723b523c5da4cb9c337d3e7e7d496ebddb72db41b09d75ac7fddfea3dac4488fe3171e38f1016260205c039875c91725adde63b1324453edf01e5ce306fd139729c05a9a5bea92b8509714b80b922bf3552ef"
 		"3596190"		"320000000400000062e49671010010019edf36000afa669502db10ac02000000de8d01695e3d1d69010098091400000000000494765bf397fa4b4f54eb53a20e65d73cd3dc648ae622f8e203ff1d18df2b6d3d270aeb49f2ab055a48b18a97ad166c38c45b09d6285c0ea536fdc7abfd5814605d0c8458efad957a7a30d195b829ba4681f4f2cae2f32da6ee91eb4ecf735b564ae0520ba6aad6aab75bd9cbb70bd4809272ef33967b8b285e2e91fe59f31d"
 		"3596170"		"320000000400000062e49671010010018adf36000afa669502db10ac02000000de8d01695e3d1d69010098091400000000006e4ec9e78a96cf730571cfb2b2867dc2cd217f4892f87f11304e30b24231b90f9dae91800a32cb594ab5b0653b33915eaec925071fb99bb059c2efe3dcbee1c304552f46971ff7812c6733294a735bec9ab324ce234cb1ae00c47136262ca4c6c8e0d32ac81533143fd7e5b9eefadadd570f2aae395d20caf1b2f57addafd552"
@@ -221,7 +225,7 @@
 	}
 	"CloudKey"		"01000000dc86cf91ee6729b209e0fc80688161e4e2a7618180f90a35de44f395dba3c741ecf44a21"
 	"CloudKeyCRC"		"-129518233"
-	"AppInfoChangeNumber"		"31959615"
+	"AppInfoChangeNumber"		"32057853"
 	"CloudManager"
 	{
 		"HintAppsToPreload"		""
@@ -265,7 +269,7 @@
 	"WebStorage"
 	{
 		"SteamVoiceSettings_1905714274"		"{\"inputGain\":1,\"outputGain\":1,\"noiseGateLevel\":2,\"noiseCancellation\":true,\"echoCancellation\":true,\"autoGainControl\":true,\"selectedMic\":\"default\",\"selectedOutput\":\"default\",\"pttSoundsEnabled\":true,\"hasResetOpenMicHotKey\":true,\"useSteamAudioSpatialization\":false}"
-		"CTextFilterStore_TextFilterPreferences_1905714274"		"{\"bIgnoreFriends\":1,\"eTextFilterSetting\":1}"
+		"CTextFilterStore_TextFilterPreferences_1905714274"		"{\"bIgnoreFriends\":true,\"eTextFilterSetting\":1}"
 		"CTextFilterStore_TextFilterWords_1905714274"		"KDEpeyJ0ZXh0X2ZpbHRlcl9jdXN0b21fYmFubmVkX3dvcmRzIjpbXSwidGV4dF9maWx0ZXJfY3VzdG9tX2NsZWFuX3dvcmRzIjpbXX0="
 		"CachedStorePreferences"		"{\"eReviewScorePreference\":0,\"content_descriptor_preferences\":{\"content_descriptors_to_exclude\":[{\"content_descriptorid\":3,\"timestamp_added\":1751070926},{\"content_descriptorid\":4,\"timestamp_added\":1751070926},{\"content_descriptorid\":5,\"timestamp_added\":1751070926}]},\"provide_deck_feedback\":0}"
 		"CachedNotificationPreferences"		"[{\"notification_type\":2,\"notification_targets\":11},{\"notification_type\":3,\"notification_targets\":1},{\"notification_type\":4,\"notification_targets\":1},{\"notification_type\":5,\"notification_targets\":11},{\"notification_type\":6,\"notification_targets\":11},{\"notification_type\":8,\"notification_targets\":3},{\"notification_type\":9,\"notification_targets\":11},{\"notification_type\":11,\"notification_targets\":3},{\"notification_type\":12,\"notification_targets\":11},{\"notification_type\":15,\"notification_targets\":11},{\"notification_type\":16,\"notification_targets\":11},{\"notification_type\":17,\"notification_targets\":11},{\"notification_type\":18,\"notification_targets\":11},{\"notification_type\":19,\"notification_targets\":11},{\"notification_type\":20,\"notification_targets\":11},{\"notification_type\":21,\"notification_targets\":11},{\"notification_type\":22,\"notification_targets\":11},{\"notification_type\":28,\"notification_targets\":1}]"
@@ -275,7 +279,7 @@
 		"friendstore_playercache"		"[{\"steamid\":\"76561199835819453\",\"persona_name\":\"SUGA GAME STORE\",\"avatar_hash\":\"fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb\"},{\"steamid\":\"76561199865980002\",\"persona_name\":\"STELLAR SUGA 2\",\"avatar_hash\":\"fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb\"}]"
 		"CTextFilterStore_strBannedPattern_1905714274"		"KDEpXGIo77u/ZitbdXbRhl0rW2vQul0rKGVkfGVyfGluZz8pP3xcdypmK1t1dtGGXStbY9GBXStba9C6XStcdyp8YyhvYz98YXcpa1xXKnN1Yz9rXHcqfNC00L7Qu9Cx0L7QtdCx0LjQt9C8fGMob3xhaHxhdyljP2soc3xlZCl80LTQvtC70LHQsNC10LHQvtCyfNC10LHQu9Cw0L3RgdC60LDRj3zQtdCx0LvQsNC90YHQutC40Ll80LfQsNC10LHRkdGI0YzRgdGPfNC30LDRhdGD0Y/Rh9C40LvQuHzQv9C40LTQsNGA0YHQutC40Ll80YHRitC10LHQsNGC0YzRgdGPfNGD0LXQsdCw0L3RgdC60LjQuXzRg9C10LHQuNGJ0YzQvdC+0LV80LDRhdGD0LXQvdC90LDRj3zQsNGF0YPQtdC90L3Rg9GOfNCw0YXRg9C10L3QvdGL0Ll80LLRi9C10LHQsNC90L7QtXzQtdCx0LDQvdC90L7QvNGDfNC10LHQsNC90YPRgtGL0LV80LXQsdC70LDQvdCw0LzQuHzQvtGF0YPQtdC90L3Ri9C5fNC/0LjQtNCw0YDQsNGB0Yt80YPRkdCx0LjRidC90LDRj3zRg9GR0LHQuNGJ0L3Ri9C5fNCy0YrQtdCx0LDQu9C4fNCy0YrQtdCx0LDRgtGMfNC10LHQsNC90L3QsNGPfNC10LHQsNC90L3QvtC1fNC10LHQsNC90L3Ri9GFfNC10LHQsNC90L7Qs9C+fNC10LHQsNC90YzQutC4fNC10LHQvtC90L3QvtC1fNC30LDQtdCx0LDQu9CwfNC30LDQtdCx0LDQu9C+fNC/0L7QtdCx0LXQvdGMfNGF0YPRkdCy0L7Qs9C+fGMob3xhaHxhdyljP2t8Y3VtbShlcnxpbmcpfNCw0YXRg9C10LvQuHzQtNGA0L7Rh9C60Lh80LXQsdCw0L3QsNGPfNC10LHQsNC90L7QtXzQtdCx0LDQvdC+0Ll80LXQsdCw0L3Rg9GOfNC10LHQsNC90YvQtXzQtdCx0LDQvdGL0Ll80LXQsdCw0L3Ri9C8fNC10LHQsNC90YvRhXzQtdCx0YPRh9C40Ll80L/QuNC30LTQtdC2fNC/0LjQt9C00LXRhnzRg9GR0LHQuNGJ0LB80YPRkdCx0LjRidC1fNGF0YPQtdGB0L7RgXzRhdGD0LXRgtC+0Ll80YXRg9C50L3RkdC5fNGF0YPRkdCy0LDRj3zRhdGD0ZHQstGL0Ll85L2g5aaI5q275LqGfOWmiOeahOS4qumAvHzmiJHljrvkvaDnmoR8Yyt1K24rdCtcdyp80LHQu9GP0LTRjHzQsdC70Y/RgtGMfNC00L7RhdGD0Y980LTRgNC+0YfQuHzQtdCx0LDQu9C+fNC10LHQsNGC0Yx80L000LXQsTTQu3zQvdCw0YXRg9C5fNC90LDRhdGD0Y980L3QtdGF0YPQuXzQvdC40YXRg9GPfNC/0LjQt9C00LV80L/QuNC30LTRg3zQv9C+0YXRg9C5fNGD0LXQsdGR0YJ80YXRg9C10YLQsHzRhdGD0LXRgtGDfNGF0YPQudC90Lh80YXRg9C50L3RjnzRhdGD0LnQvdGPfNGR0LHQsNC90Yt85pON5L2g5aaIfOaTjeS9oOWmuXzogo/kvaDlpoh80LDRhdGD0LV80LXQsdCw0Lt80LXQsdGD0YJ80YHRg9C60LB80YXRg9C70Lh80YXRg9GP0Lx8Y3Vtc2hvdHxjdW1iYWd8amViYW5lfNCx0LvRj3zQtdCx0YN80YXRg9C4fNGF0YPQuXzRhdGD0Y985YK75bGEfOWCu+mAvHzmk43mrbt86Iet6YC8fGN1bXM/fGt1cndhfGt5c3zvu79mW2HDpGVdeT9nK1tvZWl1XSt0K3M/fNC/0LjQtNCw0YDQsNGB0L7QsnzQtNCw0YPQvdGB0LrQsNGPfNC/0LjQtNC+0YDQsNGB0Yt8Y2hpbmdcVypjaG9uZ3M/fG7zoICh86CAoWlnZ2Vyc3x0b3dlbFxXKmhlYWRzP3zQv9C40LTQvtGA0LrQsHx0aW5nXFcqdG9uZ3M/fHRyYW5uKGllfHkpcz98Y2FtZWwgam9ja2V5fG5pOmdnXHcqOlx3Knxwb3JjaCBtb25rZXl8Y2hpbihjfGspcz98bitpK1tncV0rcz98eWFtXFcqeWFtcz98XHcqbmlnZ2FzP3xjaGluYW1hbnM/fHBvbGFja2U/cz98bmVla2VyaXM/fG5pZ2ZoZXJzP3xyZWRza2lucz98YmVhbmVycz98Y29vbGllcz98Y3phcm51Y2h8ZithK2crcyp8ZmFnZ290cnl8bmV3ZmFncz98bmkgZ2cgZXJ8bmlnZ2Fcdyp8bmlnZ2xlcz98bmlnbm9ncz98cnVzK2tpcz98d2lnZ2Vycz98z5xhZ2fQvnR8aW5qdW5zP3xuaWtrYXM/fHBpZGFyYXN8d2lnZ2FzP3zQuGlnZ2VyfFx3KmZhZ3xiZWFuZXJ8Y29vbnM/fGR5a2VzP3xmYTY2b3R8ZmFndHM/fGdvb2tzP3xneXBvcz98aG9tb3M/fGtpa2VzP3xzcGljcz98dHJhbm55fHl3bmJhd3zpu5HprLx8Zmd0cz98ZtCwZ3N8amFwcz98cGlkYXJ8dHJvb258d29wcz98ZmFnenxm0LBnfHBha2l8ZkBnfFx3Kk7zoICh86CAoUlHR0XzoICh86CAoVJcdyp8XHcq0YHQstC40L3QvtGB0L7QsdCw0Lpcdyp8XHcqLnVjayA/LmlnZ2VyLj9cdyp8XHcqybTJqsmiyaLhtIfKgFx3Knxcdypu0ZZnZ9C1clx3KnxcdypOw41HR0VSXHcqfFx3Km5cXFx8Z2dlclx3KnxcdypuaWdn0LVyXHcqfFx3KkY0R0cwVFx3KnxcdypOMUdHM1Jcdyp8XHcqbmlnZ2VyXHcqfFx3Km5pZ2c0XHcqfFx3Km5pZ2d6XHcqKVxi"
 		"CTextFilterStore_strCleanPattern_1905714274"		"KDEpXihcYihzdGFyZG9jayBjb21tdW5pdHkgYXNzaXN0YW50fGhvbW8gc2FwaWVucyBzYXBpZW5zfHRoZSBzZXh5IGNoaW5hbWFufGZhayhlZHxlcnM/fGluZyl8a29tcGV0ZW56dGVhbXzmtL7pgIHlkZh8cGluZWdyb3ZlfG5cLmVcLmlnXC5lXC58ZnVrdXNoaW1hfHNuaWdnZXJ8bmllIGdlZXxmdWt1b2thfGZ1Y2hzaWF8ZnVjaGlhbnxjb2NrXC5saXxwaHVrZXR8bmlnZ2xlfGZ1eGl1c3xmdWN1cm98bmllZ298bmllYm98bmllYmF8bmVpZ2V8bmVnZ3l8bmViYnl8ZnV4aXN8Y3dmYWd8MTQ4ODh8cHViZ3xuaWJ5fG5lYnV8bmVib3xmdWt1fGZ1a2l8ZmFrdHxnMjR8ZmNyfFx3KmZ2Y2h2b1x3KilcYikk"
-		"UIStoreLocalSteamUIState"		"{\"nVersion\":1,\"eGameListView\":1,\"collectionFilter\":{\"nFormatVersion\":2,\"strSearchText\":\"\",\"filterGroups\":[{\"rgOptions\":[1],\"bAcceptUnion\":true},{\"rgOptions\":[2],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false}],\"setSuggestions\":{}},\"collectionFilterGamepad\":{\"nFormatVersion\":2,\"strSearchText\":\"\",\"filterGroups\":[{\"rgOptions\":[1,2,8192],\"bAcceptUnion\":true},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false}],\"setSuggestions\":{}},\"bGroupedByCollection\":true,\"bSortedByRecent\":true,\"mapCollapsedState\":[[\"hidden\",true]],\"currentSelection\":{\"strCollectionId\":\"recent-Recent\",\"nAppId\":3489700},\"bGroupBySharedLibraries\":false}"
+		"UIStoreLocalSteamUIState"		"{\"nVersion\":1,\"eGameListView\":1,\"collectionFilter\":{\"nFormatVersion\":2,\"strSearchText\":\"\",\"filterGroups\":[{\"rgOptions\":[1],\"bAcceptUnion\":true},{\"rgOptions\":[2],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false}],\"setSuggestions\":{}},\"collectionFilterGamepad\":{\"nFormatVersion\":2,\"strSearchText\":\"\",\"filterGroups\":[{\"rgOptions\":[1,2,8192],\"bAcceptUnion\":true},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false}],\"setSuggestions\":{}},\"bGroupedByCollection\":true,\"bSortedByRecent\":true,\"mapCollapsedState\":[[\"hidden\",true]],\"currentSelection\":{\"strCollectionId\":\"recent-September\",\"nAppId\":990080},\"bGroupBySharedLibraries\":false}"
 		"keyboard_haptic_preset"		"2"
 		"keyboard_haptic_custom"		"{\"eHapticType\":2,\"unIntensity\":4,\"ndBGain\":-5}"
 		"keyboard_trackpad_typing_scale"		"1"
@@ -283,9 +287,9 @@
 		"keyboard_layout"		"{\"currentLayout\":0,\"selectedLayouts\":[0]}"
 		"keyboard_initial_location_desktop"		"\"center-bottom\""
 		"keyboard_initial_location_overlay"		"\"center-bottom\""
-		"trendingstore_storage"		"{\"version\":2,\"data\":[{\"appid\":3489700,\"rgAccountIDs\":[1875553725],\"totalFriends\":1},{\"appid\":553850,\"rgAccountIDs\":[1875553725],\"totalFriends\":1},{\"appid\":2358720,\"rgAccountIDs\":[1875553725],\"totalFriends\":1},{\"appid\":550,\"rgAccountIDs\":[1875553725],\"totalFriends\":1}],\"lastFetchTimeMS\":1761709515087}"
+		"trendingstore_storage"		"{\"version\":2,\"data\":[{\"appid\":3489700,\"rgAccountIDs\":[1875553725],\"totalFriends\":1},{\"appid\":553850,\"rgAccountIDs\":[1875553725],\"totalFriends\":1},{\"appid\":2358720,\"rgAccountIDs\":[1875553725],\"totalFriends\":1}],\"lastFetchTimeMS\":1762207912844}"
 		"ChatStorePopupState_1905714274"		"{\"bFriendsListVisible\":false,\"always_restore\":false,\"bFriendsListCollapsed\":false}"
-		"playnextstore_storage"		"{\"nVersion\":3,\"cachedPlayNext\":{\"last_update_time\":1761649071,\"appids\":[]},\"rgIgnoredApps\":[]}"
+		"playnextstore_storage"		"{\"nVersion\":3,\"cachedPlayNext\":{\"last_update_time\":1762001380,\"appids\":[]},\"rgIgnoredApps\":[]}"
 		"GetEquippedProfileItemsForUser76561199865980002"		"{\"profile_background\":{\"profile_colors\":[]},\"mini_profile_background\":{\"profile_colors\":[]},\"avatar_frame\":{\"profile_colors\":[]},\"animated_avatar\":{\"profile_colors\":[]},\"profile_modifier\":{\"profile_colors\":[]},\"steam_deck_keyboard_skin\":{\"profile_colors\":[]}}"
 		"deck_compatibility_feedback_ask"		"[]"
 		"deck_compatibility_feedback_eligible_apps"		"{\"3489700\":0}"
@@ -295,9 +299,16 @@
 	{
 		"PushToTalkKey"		"0"
 	}
-	"RecentLocalPlayedGameIDs"		"a43f3500000000005c8e0169dc412369801b0f0000000000ef6bd46828560000"
+	"RecentLocalPlayedGameIDs"		"801b0f00000000008929096928560000a43f3500000000001e290969dc412369"
 	"news"
 	{
 		"NotifyAvailableGames"		"0"
+	}
+	"controller_config"
+	{
+		"3489700"
+		{
+			"usetime"		"99.445892333984375"
+		}
 	}
 }
