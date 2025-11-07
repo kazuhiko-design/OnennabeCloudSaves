@@ -69,6 +69,7 @@
 				}
 				"StartMenuShortcutCheck"		"1"
 				"DesktopShortcutCheck"		"1"
+				"cloudenabled"		"0"
 			}
 		}
 	}
